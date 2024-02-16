@@ -3,7 +3,9 @@
 Welcome to my GitHub profile!
 Explore my code and have a feel for what I'm all about.
 
-> We can't solve today's problems with the mentality of yesterday. Albert Einstein
+> We can't solve today's problems with the mentality of yesterday.
+>
+> Albert Einstein
 
 ### About me
 
