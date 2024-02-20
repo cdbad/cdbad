@@ -1,9 +1,3 @@
----
-runme:
-  id: 01HQ3BMNVDWM8EZX6G07AER75Q
-  version: v3
----
-
 # <span>Cody Badiani</span>
 
 Welcome to my GitHub profile!
