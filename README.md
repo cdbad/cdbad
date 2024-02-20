@@ -4,7 +4,7 @@ runme:
   version: v3
 ---
 
-# <span style="">Cody Badiani</span>
+# Cody Badiani
 
 Welcome to my GitHub profile!
 Explore my code and have a feel for what I'm all about.
@@ -21,16 +21,12 @@ I'm interested in lots of different fields, namely **research**, **data science*
 
 ### Programming
 
-<div style="display:flex">
-<div style="display:flex; flex-direction:column;">
+<div style="display:flex; flex-direction:column; max-height: 100em; flex-wrap:wrap;">
 - gdscript
 - JavaScript
 - HTML
 - CSS
-</div>
-<div style="display:flex; flex-direction:column;">
 - basics of C++
 - basics of Python
 - git & GitHub
-</div>
 </div>
