@@ -15,11 +15,11 @@ On my free time I knit sweaters and read a bunch.
 
 I'm interested in lots of different fields, namely **research**, **data science**, **web development** and **video game development**.
 
-### Programming
+### My projects
 
-- JavaScript
-- HTML
-- CSS
-- basics of C++
-- basics of Python
-- git & GitHub
+| Language | Project |
+| --- | --- |
+| HTML & CSS | [dci-orientation-web-dev](https://github.com/spszk/dci-orientation-web-dev) |
+| Python | [cf](https://github.com/spszk/cf) |
+| --- | [cf](https://github.com/spszk/cf) |
+| JavaScript & React | [fullstackopen](https://github.com/spszk/fullstackopen) |
