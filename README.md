@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 Explore my code and have a feel for what I'm all about.
 
-!(gh-anim.gif)
+![pixel art gif of me at work](./gh-anim.gif)
 
 ### About me
 
