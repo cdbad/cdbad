@@ -21,5 +21,4 @@ I'm interested in lots of different fields, namely **research**, **data science*
 | --- | --- |
 | HTML & CSS | [dci-orientation-web-dev](https://github.com/spszk/dci-orientation-web-dev) |
 | Python | [cf](https://github.com/spszk/cf) |
-| --- | [cf](https://github.com/spszk/cf) |
 | JavaScript & React | [fullstackopen](https://github.com/spszk/fullstackopen) |
