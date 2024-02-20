@@ -17,8 +17,8 @@ I'm interested in lots of different fields, namely **research**, **data science*
 
 ### My projects
 
-| Language | Project |
-| --- | --- |
-| HTML & CSS | [dci-orientation-web-dev](https://github.com/spszk/dci-orientation-web-dev) |
-| Python | [cf](https://github.com/spszk/cf) |
-| JavaScript & React | [fullstackopen](https://github.com/spszk/fullstackopen) |
+| Language(s) and frameworks | Project | Description|
+| --- | --- | --- |
+| HTML & CSS | [dci-orientation-web-dev](https://github.com/spszk/dci-orientation-web-dev) | Final project for the web dev part of DCI's orientation course |
+| Python | [cf](https://github.com/spszk/cf) | Simple program that calculates your Italian tax ID based on your personal data |
+| JavaScript & React | [fullstackopen](https://github.com/spszk/fullstackopen) | My exercises for the Fullstackopen course by the University of Helsinki |
