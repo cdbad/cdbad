@@ -1,4 +1,10 @@
-# Cody Badiani
+---
+runme:
+  id: 01HQ3BMNVDWM8EZX6G07AER75Q
+  version: v3
+---
+
+# <span style="">Cody Badiani</span>
 
 Welcome to my GitHub profile!
 Explore my code and have a feel for what I'm all about.
@@ -13,22 +19,18 @@ I'm a 26-year-old from Italy and I started teaching myself programming at 18. No
 
 I'm interested in lots of different fields, namely **research**, **data science**, **web development** and **video game development**.
 
-### Languages and competences
+### Programming
 
-#### Programming
-
+<div style="display:flex">
+<div style="display:flex; flex-direction:column;">
 - gdscript
 - JavaScript
-- HTML & CSS
-- C++
-- Python
+- HTML
+- CSS
+</div>
+<div style="display:flex; flex-direction:column;">
+- basics of C++
+- basics of Python
 - git & GitHub
-
-#### Others
-
-- English, *C1*
-- Italian, *mothertongue*
-- French, *B2*
-- Spanish, *B2*
-- German, *B1*
-- Norwegian, *B1*
+</div>
+</div>
