@@ -7,7 +7,7 @@ Explore my code and have a feel for what I'm all about.
 
 ### About me
 
-I'm a 26-year-old from Italy and I started teaching myself programming at 18. Now I'm taking a course at [DCI Digital Career Institute](https://digitalcareerinstitute.org/) to become a professional.
+I'm a 27-year-old from Italy and I started teaching myself programming at 18. Now I'm taking a course at [DCI Digital Career Institute](https://digitalcareerinstitute.org/) to become a professional.
 
 On my free time I knit sweaters and read a bunch.
 
