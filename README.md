@@ -19,6 +19,7 @@ I'm interested in lots of different fields, namely **research**, **data science*
 
 | Language(s) and frameworks | Project | Description|
 | --- | --- | --- |
-| Python | [cf](https://github.com/spszk/cf) | Simple program that calculates your Italian tax ID based on your personal data |
+| Python | [wg-rent-calc](https://github.com/spszk/wg-rent-calc) | A rent calculator for your shared living space |
+|  | [cf](https://github.com/spszk/cf) | Simple program that calculates your Italian tax ID based on your personal data |
 | JavaScript & React | [fullstackopen](https://github.com/spszk/fullstackopen) | My exercises for the Fullstackopen course by the University of Helsinki |
 | HTML & CSS | [dci-orientation-web-dev](https://github.com/spszk/dci-orientation-web-dev) | Final project for the web dev part of DCI's orientation course |
