@@ -19,7 +19,8 @@ I'm interested in lots of different fields, namely **research**, **data science*
 
 | Language(s) and frameworks | Project | Description|
 | --- | --- | --- |
-| Python | [hangman](https://github.com/spszk/hangman.git) | Hangman game to be run in the terminal |
+| Python | [cellular-automata](https://github.com/spszk/cellular_automata.git) | Cellular automata program made with [@natdeleon](https://github.com/natdeleon) |
+|  | [hangman](https://github.com/spszk/hangman.git) | Hangman game to be run in the terminal |
 |  | [wg-rent-calc](https://github.com/spszk/wg-rent-calc) | A rent calculator for your shared living space |
 |  | [cf](https://github.com/spszk/cf) | Simple program that calculates your Italian tax ID based on your personal data |
 | JavaScript & React | [fullstackopen](https://github.com/spszk/fullstackopen) | My exercises for the Fullstackopen course by the University of Helsinki |
