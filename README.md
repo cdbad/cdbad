@@ -17,11 +17,11 @@ I'm interested in lots of different fields, namely **research**, **data science*
 
 ### My projects
 
-| Language(s) and technologies | Project | Description |
-| --- | --- | --- |
-| __Python__<br/>Tkinter<br/>turtle | [cellular-automata](https://github.com/spszk/cellular_automata.git) | Cellular automata program made with [@natdeleon](https://github.com/natdeleon) |
-| __Python__ | [wg-rent-calc](https://github.com/spszk/wg-rent-calc) | A rent calculator for your shared living space |
-| | [hangman](https://github.com/spszk/hangman.git) | Hangman game to be run in the terminal |
-| | [cf](https://github.com/spszk/cf) | Simple program that calculates your Italian tax ID based on your personal data |
-| __Javascript__<br/>React | [fullstackopen](https://github.com/spszk/fullstackopen) | My exercises for the Fullstackopen course by the University of Helsinki |
-| __HTML__<br/>__CSS__ | [dci-orientation-web-dev](https://github.com/spszk/dci-orientation-web-dev) | Final project for the web dev part of DCI's orientation course |
+| Language(s)| Project | Technologies | Description |
+| --- | --- | --- | --- |
+| __Python__ | [cellular-automata](https://github.com/spszk/cellular_automata.git) | Tkinter<br/>turtle | Cellular automata program made with [@natdeleon](https://github.com/natdeleon) |
+| | [wg-rent-calc](https://github.com/spszk/wg-rent-calc) | | A rent calculator for your shared living space |
+| | [hangman](https://github.com/spszk/hangman.git) | | Hangman game to be run in the terminal |
+| | [cf](https://github.com/spszk/cf) | | Simple program that calculates your Italian tax ID based on your personal data |
+| __Javascript__<br/>React | [fullstackopen](https://github.com/spszk/fullstackopen) | | My exercises for the Fullstackopen course by the University of Helsinki |
+| __HTML__<br/>__CSS__ | [dci-orientation-web-dev](https://github.com/spszk/dci-orientation-web-dev) | | Final project for the web dev part of DCI's orientation course |
